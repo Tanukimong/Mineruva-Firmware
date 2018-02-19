@@ -1,6 +1,6 @@
 /**
- * Mineruva 1.14
- * 필라멘트 Change 기능이 없어졌던거 복구
+ * Mineruva 1.15
+ * Filament runout sensor adding
  * Marlin 3D Printer Firmware
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
