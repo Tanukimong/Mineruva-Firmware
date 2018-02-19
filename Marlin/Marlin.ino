@@ -1,6 +1,6 @@
 /**
+ * mineruva 1.10 based on rc8
  * Marlin 3D Printer Firmware
- * 1.10 latest
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
  * Based on Sprinter and grbl.
@@ -66,6 +66,11 @@
 #if ENABLED(HAVE_TMCDRIVER)
   #include <SPI.h>
   #include <TMC26XStepper.h>
+#endif
+
+#if ENABLED(HAVE_TMC2130DRIVER)
+  #include <SPI.h>
+  #include <Trinamic_TMC2130.h>
 #endif
 
 #if ENABLED(HAVE_L6470DRIVER)
