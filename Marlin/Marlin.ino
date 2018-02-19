@@ -1,9 +1,10 @@
 /**
+ * 
+ * Mineruva 2.0.0
+ * #목표
+ * mks gen 1.4 ver으로 최적화
+ * 
  * Marlin 3D Printer Firmware
- * Mineruva 1.2.1 ver 2
- * mks gen 1.4에만 맞게
- * 물론 filament run out 제거
- * 풀업저항 세팅 변경 -> 내려가기만 하는 문제 해결
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
  * Based on Sprinter and grbl.
