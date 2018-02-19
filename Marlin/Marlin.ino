@@ -1,5 +1,8 @@
 /**
- * mineruva 1.10 based on rc8
+ * mineruva 1.12 based on rc8
+ * 필라멘트 교체 기능
+ * 메쉬 수동 레벨링
+ * 노브가 더 느리게 작동되도록 수정
  * Marlin 3D Printer Firmware
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
