@@ -1,10 +1,10 @@
 /**
- * 
- * Mineruva 2.0.1
- * #목표
- * mks gen 1.4 ver으로 최적화
- * 
  * Marlin 3D Printer Firmware
+ * 
+ *  Based on 1.1.8 Marlin FW
+ *  풀업 저항 세팅 변경 -> 내려가는 문제 해결
+ *  ABL version
+ * 
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
  * Based on Sprinter and grbl.
