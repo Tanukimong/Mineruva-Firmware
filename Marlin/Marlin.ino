@@ -1,8 +1,8 @@
 /**
  * Marlin 3D Printer Firmware
- * Mineruva 1.16
- * PID값 최적화
- * Nozzle Cleaning 기능 최적화 및 Start Code에 삽입
+ * Mineruva 1.2.1
+ * Accelation 원래Set과 동일하게
+ * PID 값 원래대로Set
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
  * Based on Sprinter and grbl.
