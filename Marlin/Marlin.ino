@@ -1,6 +1,6 @@
 /**
- * Mineruva 1.13 RC8 with bug fix
- * EEPROM에 Mesh bed가 기록이 안되던 현상 수정
+ * Mineruva 1.14
+ * 필라멘트 Change 기능이 없어졌던거 복구
  * Marlin 3D Printer Firmware
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
